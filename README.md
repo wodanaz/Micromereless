@@ -1,25 +1,24 @@
-# ------------------------------------------------------------------------------
-# MS ID#: DEVELOP/2024/203152
-# MS TITLE: Reprogramming of cells during embryonic transfating: overcoming a reprogramming block
-# AUTHORS: Alejandro Berrio, Esther Miranda, Abdull J Massri, Anton Afanassiev,
-#          Geoffrey Schiebinger, Gregory A Wray, and David R. McClay
-# ------------------------------------------------------------------------------
-# This README contains the instructions to replicate each figure in the above manuscript.
-# Created by: Alejandro Berrio
-# Date: 11/06/2024
-#
-# Usage:
-# - Ensure all required packages are installed.
-# - Follow the instructions provided in the following file for running the scripts.
-#
-# License:
-# This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-# To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to
-# Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-#
-# Contact:
-# For any questions or issues, please contact alejo.berrio@duke.edu
-# ------------------------------------------------------------------------------
+MS ID#: DEVELOP/2024/203152
+MS TITLE: Reprogramming of cells during embryonic transfating: overcoming a reprogramming block
+AUTHORS: Alejandro Berrio, Esther Miranda, Abdull J Massri, Anton Afanassiev,
+         Geoffrey Schiebinger, Gregory A Wray, and David R. McClay
+
+This README contains the instructions to replicate each figure in the above manuscript.
+Created by: Alejandro Berrio
+Date: 11/06/2024
+Usage:
+
+Ensure all required packages are installed.
+Follow the instructions provided in the following file for running the scripts.
+
+License:
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Contact:
+For any questions or issues, please contact alejo.berrio@duke.edu
+
 
 ## Description
 This repository contains data and R scripts used for the analysis of Waddington data. The main script, `Figures_and_analysis.R`, performs data processing and generates figures for the study.
