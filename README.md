@@ -45,7 +45,7 @@ This repository contains data and R scripts used for the analysis of Waddington 
     ```
 3. **Install required packages**: Make sure you have the necessary R packages installed. You can install them using:
     ```r
-    install.packages(c("tidyverse", "data.table", "Seurat", "viridis", "xlsx", "Matrix", "scCustomize", "cowplot, "pheatmap"))
+    install.packages(c("tidyverse", "data.table", "Seurat", "viridis", "xlsx", "Matrix", "scCustomize", "cowplot", "pheatmap"))
 
     # To Install CIDER, follow the instructions from https://github.com/zhiyhu/CIDER
     
