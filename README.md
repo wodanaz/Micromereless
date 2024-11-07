@@ -34,7 +34,7 @@ This repository contains data and R scripts used for the analysis of Waddington 
 ## Instructions
 
 ### Download and Extract Files
-1. **Download the data**: Download the `*.Rda` ,  `mmless.zip` and `control.zip` files from Zenodo (10.5281/zenodo.14051567)
+1. **Download the data**: Download the `*.Rda` ,  `mmless.zip` and `control.zip` files from [Zenodo](10.5281/zenodo.14051567)
 2. **Extract the data**: Extract the contents of `mmless.zip` and `control.zip` to your working directory.
 
 ### Running the R Script
@@ -51,9 +51,9 @@ This repository contains data and R scripts used for the analysis of Waddington 
     
     ```
 4. **Run the script**: Source the `Figures_and_analysis.R` script to perform the analysis and generate figures. You can do this by running each step in:
-    ```r
-    "Figures_and_analysis.R"
-    ```
+    
+    ["Figures_and_analysis.R"](https://github.com/wodanaz/Micromereless/blob/main/Figures_and_analysis.R)
+   
 
 ## Notes
 - Ensure that the paths in the `Figures_and_analysis.R` script are correctly set to the location of your data files.
