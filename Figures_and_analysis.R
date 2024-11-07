@@ -22,19 +22,19 @@
 # ------------------------------------------------------------------------------
 
 
-require(Seurat) # Seurat Mapping was done in HARDAC (Duke's HPC), using Seurat version 4.1.2
+library(Seurat) # Seurat Mapping was done in HARDAC (Duke's HPC), using Seurat version 4.1.2
 library(gplots)
 library(viridis)
 library(xlsx)
-require(Matrix)
+library(Matrix)
 library(tidyverse)
 library(scCustomize)
 library(cowplot)
 library(CIDER)
 library(pheatmap)
 
-load(file="control/precomputed_control.Rda", verbose = T)
-load(file="mmless/precomputed_micromereless.Rda", verbose = T)
+load(file="precomputed_control.Rda", verbose = T)
+load(file="precomputed_micromereless.Rda", verbose = T)
 load(file="precomputed_integrated.Rda", verbose = T)
 pal <- viridis(n = 10, option = "D")
 
