@@ -34,7 +34,7 @@ This repository contains data and R scripts used for the analysis of Waddington 
 ## Instructions
 
 ### Download and Extract Files
-1. **Download the data**: Download the *.Rda filesm  `mmless.zip` and `control.zip` files from Zenodo (10.5281/zenodo.14051567)
+1. **Download the data**: Download the `*.Rda` ,  `mmless.zip` and `control.zip` files from Zenodo (10.5281/zenodo.14051567)
 2. **Extract the data**: Extract the contents of `mmless.zip` and `control.zip` to your working directory.
 
 ### Running the R Script
