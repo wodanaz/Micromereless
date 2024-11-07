@@ -27,8 +27,8 @@ This repository contains data and R scripts used for the analysis of Waddington 
 - `precomputed_control.Rda`: Precomputed control data. 
 - `precomputed_micromereless.Rda`: Precomputed micromereless data.
 - `precomputed_integrated.Rda`: Precomputed integrated data.
-- `mmless.zip`: Compressed file containing micromereless data.
-- `control.zip`: Compressed file containing control data.
+- `mmless.zip`: Compressed file containing micromereless waddington-ot data.
+- `control.zip`: Compressed file containing control waddington-ot data.
 - `Figures_and_analysis.R`: R script for data analysis and figure generation.
 
 ## Instructions
