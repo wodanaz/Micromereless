@@ -1,5 +1,8 @@
-MS ID#: DEVELOP/2024/203152
-MS TITLE: Reprogramming of cells during embryonic transfating: overcoming a reprogramming block
+# MS ID: DEVELOP/2024/203152
+
+# MS TITLE: Reprogramming of cells during embryonic transfating: overcoming a reprogramming block.
+
+
 AUTHORS: Alejandro Berrio, Esther Miranda, Abdull J Massri, Anton Afanassiev,
          Geoffrey Schiebinger, Gregory A Wray, and David R. McClay
 
