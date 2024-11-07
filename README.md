@@ -50,9 +50,9 @@ This repository contains data and R scripts used for the analysis of Waddington 
     # To Install CIDER, follow the instructions from https://github.com/zhiyhu/CIDER
     
     ```
-4. **Run the script**: Source the `Figures_and_analysis.R` script to perform the analysis and generate figures. You can do this by running:
+4. **Run the script**: Source the `Figures_and_analysis.R` script to perform the analysis and generate figures. You can do this by running each step in:
     ```r
-    source("Figures_and_analysis.R")
+    "Figures_and_analysis.R"
     ```
 
 ## Notes
